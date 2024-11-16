@@ -15,5 +15,3 @@ rm Copy_77
 rm gallade6/slowpokewalrein
 
 rm -r crobat4
-
-rm -r crobat4/dragonite
